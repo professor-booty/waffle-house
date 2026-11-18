@@ -13,7 +13,7 @@ echo "-----[ System Hogs ]-----" | lolcat
 echo
 
 echo "-----[ Temu Security Audit* ]-----" | lolcat
-./secaudit.sh
+sudo ./secaudit.sh
 echo
 
 echo "-----[ System Health ]-----" | lolcat
